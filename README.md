@@ -1,3 +1,4 @@
 Hello World
 
-Programa desenvolvido com o auxilio do Rodrigo Branas
+Programa desenvolvido pelo canal do YouTube do Rodrigo Branas
+PlayLists : Tudo sobre AngularJS
